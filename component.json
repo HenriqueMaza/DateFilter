@@ -1,0 +1,8 @@
+{
+  "name": "angular-DataFilter",
+  "version": "0.0.1",
+  "main": "DataFilter.js",
+  "dependencies": {
+    "angular": "~1.0.5",    
+  }
+}
